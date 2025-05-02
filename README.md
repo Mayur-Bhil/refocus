@@ -1,5 +1,5 @@
-COmponents Structure :
-App
+# COmponents Structure :
+# App
     Navbar 
         button Component
     work
@@ -7,7 +7,7 @@ App
     Products
         Products
     Marquee
-    Blocks
+    Blocksgit
         Block
     footer        
 
