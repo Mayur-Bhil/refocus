@@ -1,4 +1,4 @@
-# COmponents Structure :
+# Components Structure :
 # App
     Navbar 
         button Component
